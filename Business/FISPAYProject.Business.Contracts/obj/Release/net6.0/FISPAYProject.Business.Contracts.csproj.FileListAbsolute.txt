@@ -1,0 +1,34 @@
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.deps.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.CoreApi.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Model.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.CoreApi.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Model.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.AssemblyReference.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.AssemblyInfo.cs
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.CopyComplete
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\refint\FISPAYProject.Business.Contracts.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\ref\FISPAYProject.Business.Contracts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.deps.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.CoreApi.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Model.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.CoreApi.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\bin\Release\net6.0\FISPAYProject.Model.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.AssemblyReference.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.AssemblyInfo.cs
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.csproj.CopyComplete
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\refint\FISPAYProject.Business.Contracts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Business\FISPAYProject.Business.Contracts\obj\Release\net6.0\ref\FISPAYProject.Business.Contracts.dll

@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{07987736-EB9F-46D1-A5E5-45CC8DC336EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0352C256-3D82-4CC3-8443-6A78E301562B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{37E96E9A-9E70-488C-AE1F-5AB382E5F888}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{090E740C-F2B4-454C-8E2B-AAF2C196C4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.Business", "Business\FISPAYProject.Business\FISPAYProject.Business.csproj", "{F45E2171-7217-44AF-B1A6-4ED7117EDBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.Business.Contracts", "Business\FISPAYProject.Business.Contracts\FISPAYProject.Business.Contracts.csproj", "{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.Data", "Data\FISPAYProject.Data\FISPAYProject.Data.csproj", "{9ED0E50B-387A-4C16-A7D3-74373DF93E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.Model", "Model\FISPAYProject.Model\FISPAYProject.Model.csproj", "{21C472C0-B235-40E1-B09A-368C3CB86F16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.Services", "Services\FISPAYProject.Services\FISPAYProject.Services.csproj", "{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D9D754E-8F55-4C60-81E7-1D0533B14A2B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks", "Frameworks", "{9F1A437E-B21B-497C-AA1C-9C2A00302AAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CoreApi", "CoreApi", "{7AD2A250-EEA6-40A3-A968-B2D7A714BF40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISPAYProject.CoreApi", "Frameworks\CoreApi\FISPAY.CoreApi\FISPAYProject.CoreApi.csproj", "{F5718FE0-4509-439F-A065-18E0CFFA89DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45E2171-7217-44AF-B1A6-4ED7117EDBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45E2171-7217-44AF-B1A6-4ED7117EDBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45E2171-7217-44AF-B1A6-4ED7117EDBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45E2171-7217-44AF-B1A6-4ED7117EDBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED0E50B-387A-4C16-A7D3-74373DF93E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED0E50B-387A-4C16-A7D3-74373DF93E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED0E50B-387A-4C16-A7D3-74373DF93E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED0E50B-387A-4C16-A7D3-74373DF93E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C472C0-B235-40E1-B09A-368C3CB86F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C472C0-B235-40E1-B09A-368C3CB86F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C472C0-B235-40E1-B09A-368C3CB86F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C472C0-B235-40E1-B09A-368C3CB86F16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5718FE0-4509-439F-A065-18E0CFFA89DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5718FE0-4509-439F-A065-18E0CFFA89DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5718FE0-4509-439F-A065-18E0CFFA89DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5718FE0-4509-439F-A065-18E0CFFA89DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F45E2171-7217-44AF-B1A6-4ED7117EDBD9} = {07987736-EB9F-46D1-A5E5-45CC8DC336EA}
+		{7A6DD55E-43CB-4719-8F5A-A4EB5A6DB5AE} = {07987736-EB9F-46D1-A5E5-45CC8DC336EA}
+		{9ED0E50B-387A-4C16-A7D3-74373DF93E14} = {0352C256-3D82-4CC3-8443-6A78E301562B}
+		{21C472C0-B235-40E1-B09A-368C3CB86F16} = {37E96E9A-9E70-488C-AE1F-5AB382E5F888}
+		{7D95FAB4-BDE7-4848-BBD6-8F9BF4BB7D45} = {090E740C-F2B4-454C-8E2B-AAF2C196C4A7}
+		{7AD2A250-EEA6-40A3-A968-B2D7A714BF40} = {9F1A437E-B21B-497C-AA1C-9C2A00302AAC}
+		{F5718FE0-4509-439F-A065-18E0CFFA89DA} = {7AD2A250-EEA6-40A3-A968-B2D7A714BF40}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA7805F5-1E96-45DF-B9BB-34C24D54AC9A}
+	EndGlobalSection
+EndGlobal

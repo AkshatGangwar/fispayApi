@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FISPAYProject.Business.Contracts/1.0.0": {
+        "dependencies": {
+          "FISPAYProject.CoreApi": "1.0.0",
+          "FISPAYProject.Model": "1.0.0"
+        },
+        "runtime": {
+          "FISPAYProject.Business.Contracts.dll": {}
+        }
+      },
+      "FISPAYProject.CoreApi/1.0.0": {
+        "runtime": {
+          "FISPAYProject.CoreApi.dll": {}
+        }
+      },
+      "FISPAYProject.Model/1.0.0": {
+        "runtime": {
+          "FISPAYProject.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FISPAYProject.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FISPAYProject.CoreApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FISPAYProject.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

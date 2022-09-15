@@ -1,0 +1,246 @@
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.Development.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.staticwebassets.runtime.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.exe
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.deps.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.runtimeconfig.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Humanizer.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.pdb
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.pdb
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.AssemblyReference.cache
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfoInputs.cache
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfo.cs
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CoreCompileInputs.cache
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.build.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.development.json
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\scopedcss\bundle\FISPAYProject.Services.styles.css
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CopyComplete
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\refint\FISPAYProject.Services.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.genruntimeconfig.cache
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\ref\FISPAYProject.Services.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.dll
+C:\Abhishek\Demo\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.staticwebassets.runtime.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.exe
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.deps.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.runtimeconfig.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Humanizer.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\HtmlRenderer.Core.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.Core.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.AssemblyReference.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.Properties.Resources.resources
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.GenerateResource.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfoInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfo.cs
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\scopedcss\bundle\FISPAYProject.Services.styles.css
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CopyComplete
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\refint\FISPAYProject.Services.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.genruntimeconfig.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\ref\FISPAYProject.Services.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\appsettings.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.staticwebassets.runtime.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.exe
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.deps.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.runtimeconfig.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\PdfSharpCore.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\HtmlRenderer.Core.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\HtmlRenderer.PdfSharp.Core.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.Core.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.Contracts.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.Contracts.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Business.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Data.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.CoreApi.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\bin\Debug\net6.0\FISPAYProject.Model.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.AssemblyReference.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.Properties.Resources.resources
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.GenerateResource.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfoInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.AssemblyInfo.cs
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\scopedcss\bundle\FISPAYProject.Services.styles.css
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.csproj.CopyComplete
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\refint\FISPAYProject.Services.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\FISPAYProject.Services.genruntimeconfig.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Debug\net6.0\ref\FISPAYProject.Services.dll

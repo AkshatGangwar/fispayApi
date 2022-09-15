@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\FISPAYProject.Data\FISPAYProject.Data.csproj" />
+    <ProjectReference Include="..\..\Frameworks\CoreApi\FISPAY.CoreApi\FISPAYProject.CoreApi.csproj" />
+    <ProjectReference Include="..\..\Model\FISPAYProject.Model\FISPAYProject.Model.csproj" />
+    <ProjectReference Include="..\FISPAYProject.Business.Contracts\FISPAYProject.Business.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business\\FISPAYProject.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\FISPAYProject.Business.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\FISPAYProject.Business.Contracts.csproj",
+        "projectName": "FISPAYProject.Business.Contracts",
+        "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\FISPAYProject.Business.Contracts.csproj",
+        "packagesPath": "C:\\Users\\E5662410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\E5662410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj"
+              },
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business\\FISPAYProject.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business\\FISPAYProject.Business.csproj",
+        "projectName": "FISPAYProject.Business",
+        "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business\\FISPAYProject.Business.csproj",
+        "packagesPath": "C:\\Users\\E5662410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\E5662410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\FISPAYProject.Business.Contracts.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Business\\FISPAYProject.Business.Contracts\\FISPAYProject.Business.Contracts.csproj"
+              },
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\FISPAYProject.Data.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\FISPAYProject.Data.csproj"
+              },
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj"
+              },
+              "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj": {
+                "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\FISPAYProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\FISPAYProject.Data.csproj",
+        "projectName": "FISPAYProject.Data",
+        "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\FISPAYProject.Data.csproj",
+        "packagesPath": "C:\\Users\\E5662410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Data\\FISPAYProject.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\E5662410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj",
+        "projectName": "FISPAYProject.CoreApi",
+        "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\FISPAYProject.CoreApi.csproj",
+        "packagesPath": "C:\\Users\\E5662410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Frameworks\\CoreApi\\FISPAY.CoreApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\E5662410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj",
+        "projectName": "FISPAYProject.Model",
+        "projectPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\FISPAYProject.Model.csproj",
+        "packagesPath": "C:\\Users\\E5662410\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Model\\FISPAYProject.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\E5662410\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

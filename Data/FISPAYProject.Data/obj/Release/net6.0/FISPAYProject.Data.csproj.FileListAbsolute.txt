@@ -1,0 +1,28 @@
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.deps.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.runtimeconfig.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.csproj.AssemblyReference.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.AssemblyInfoInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.AssemblyInfo.cs
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\refint\FISPAYProject.Data.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.genruntimeconfig.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\ref\FISPAYProject.Data.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.deps.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.runtimeconfig.json
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\bin\Release\net6.0\FISPAYProject.Data.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.csproj.AssemblyReference.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.AssemblyInfoInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.AssemblyInfo.cs
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\refint\FISPAYProject.Data.dll
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.pdb
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\FISPAYProject.Data.genruntimeconfig.cache
+C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Data\FISPAYProject.Data\obj\Release\net6.0\ref\FISPAYProject.Data.dll

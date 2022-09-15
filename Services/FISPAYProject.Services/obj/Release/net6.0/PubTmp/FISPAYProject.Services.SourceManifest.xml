@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\E5662410\Downloads\FISPAYProject (1)\FISPAYProject\Services\FISPAYProject.Services\obj\Release\net6.0\PubTmp\EFSQLScripts\FISPAYProject.Data.Context.FISPAYContext.sql" />
+</sitemanifest>

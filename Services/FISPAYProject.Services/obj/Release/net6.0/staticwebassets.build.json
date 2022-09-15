@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "k3BwKjYhyt5bG/x5WZJHfQF9E1MAU2aW9HJm+CGW4/4=",
+  "Source": "FISPAYProject.Services",
+  "BasePath": "_content/FISPAYProject.Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FISPAYProject.Services\\wwwroot",
+      "Source": "FISPAYProject.Services",
+      "ContentRoot": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Services\\FISPAYProject.Services\\wwwroot\\",
+      "BasePath": "_content/FISPAYProject.Services",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Services\\FISPAYProject.Services\\wwwroot\\Img\\Abhishek Photo.jpg",
+      "SourceId": "FISPAYProject.Services",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\E5662410\\Downloads\\FISPAYProject (1)\\FISPAYProject\\Services\\FISPAYProject.Services\\wwwroot\\",
+      "BasePath": "_content/FISPAYProject.Services",
+      "RelativePath": "Img/Abhishek Photo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\Abhishek Photo.jpg"
+    }
+  ]
+}

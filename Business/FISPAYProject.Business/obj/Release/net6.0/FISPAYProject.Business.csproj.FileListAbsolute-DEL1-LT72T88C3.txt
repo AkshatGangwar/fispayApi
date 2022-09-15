@@ -1,0 +1,12 @@
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\bin\Release\net6.0\FISPAYProject.Business.deps.json
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\bin\Release\net6.0\FISPAYProject.Business.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\bin\Release\net6.0\FISPAYProject.Business.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.csproj.AssemblyReference.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.AssemblyInfoInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.AssemblyInfo.cs
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.csproj.CoreCompileInputs.cache
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\refint\FISPAYProject.Business.dll
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\FISPAYProject.Business.pdb
+C:\Users\e5657026\OneDrive - FIS\Documents\GitHub\FISPAYProject\Business\FISPAYProject.Business\obj\Release\net6.0\ref\FISPAYProject.Business.dll
